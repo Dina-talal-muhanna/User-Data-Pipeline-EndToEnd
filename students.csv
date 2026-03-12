@@ -1,0 +1,10 @@
+Student ID,Name,Age,Grade,Subject,City,Passed,Score Date
+1,Ahmed,25,88,Math,Cairo,TRUE,1/15/2025
+2,Sara,32,92,Physics,Alexandria,TRUE,2/10/2025
+3,Omar,19,65,Math,Giza,FALSE,1/20/2025
+4,Lina,28,78,Chemistry,Cairo,TRUE,3/5/2025
+5,Khaled,45,55,Physics,Mansoura,FALSE,2/28/2025
+6,Nour,22,,English,Alexandria,TRUE,1/10/2025
+7,Yara,30,89,Math,Cairo,TRUE,
+8,Mohamed,27,72,Chemistry,Giza,TRUE,3/12/2025
+8,Mohamed,27,72,Chemistry,Giza,TRUE,3/12/2025
